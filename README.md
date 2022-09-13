@@ -4,8 +4,13 @@ Included are versions of the logo with and without text as well as other images 
 
 If you would like to remain consistent with Gearbox brand styling, we recommend you use the following colors and fonts:
 
-Colors:
+Color palette gradients have been generated so that the -500 value corresponds to the value chosen by the design team.
 
+A visual preview is as follows:
+
+![Named Color palette with gradients](color-palette-gradient.png)
+
+```json
 {
   "colors": {
     "chinese-black": {
@@ -70,6 +75,7 @@ Colors:
     }
   }
 }
+```
 
 Fonts:
 
