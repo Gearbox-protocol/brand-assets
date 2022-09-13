@@ -5,10 +5,15 @@ Included are versions of the logo with and without text as well as other images 
 If you would like to remain consistent with Gearbox brand styling, we recommend you use the following colors and fonts:
 
 Colors:
+
 #101124
+
 #3f5b80
+
 #cb4771
+
 #ff7f00
+
 #afc8ff
 
 Fonts:
